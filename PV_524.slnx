@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Lesson_1_Connection/Lesson_1_Connection.csproj" Id="05d2cba9-b412-43ff-80a0-1309877aa2d1" />
+  <Project Path="Lesson_2_/Lesson_2_Procedure.csproj" Id="3344d84c-55cb-4b78-b34c-886cf98bd74e" />
+  <Project Path="Lesson_3_DAL/Lesson_3_DAL.csproj" Id="a9ada792-06f4-4c9b-8517-6867a033cc65" />
+  <Project Path="Lesson_4_EF_CF/Lesson_4_EF_CF.csproj" Id="2804c0ef-fcb2-49f9-882b-36fa8c917b35" />
+  <Project Path="Lesson_4_УА_ЬА/Lesson_4_EF_MF.csproj" Id="38cf4fdd-1cf9-436e-bcd8-61ea3b6ec630" />
+  <Project Path="PV_524/PV_524.csproj" Id="c8fc2386-8395-4bca-95cc-5a054b481d53" />
+</Solution>
