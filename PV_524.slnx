@@ -4,5 +4,8 @@
   <Project Path="Lesson_3_DAL/Lesson_3_DAL.csproj" Id="a9ada792-06f4-4c9b-8517-6867a033cc65" />
   <Project Path="Lesson_4_EF_CF/Lesson_4_EF_CF.csproj" Id="2804c0ef-fcb2-49f9-882b-36fa8c917b35" />
   <Project Path="Lesson_4_УА_ЬА/Lesson_4_EF_MF.csproj" Id="38cf4fdd-1cf9-436e-bcd8-61ea3b6ec630" />
+  <Project Path="Lesson_5_disconnectType/Lesson_5_disconnectType.csproj" Id="2cc05f4f-92ca-4558-91da-66f00ec165c6" />
+  <Project Path="Lesson_6_WF/Lesson_6_WF.csproj" Id="935c5548-373c-4510-9f63-9e61144ecf7e" />
+  <Project Path="Lesson_7_DTB ModelFist/Lesson_7_DTB ModelFist.csproj" Id="c2de53b0-230d-4252-b5f4-7a20d055e4a3" />
   <Project Path="PV_524/PV_524.csproj" Id="c8fc2386-8395-4bca-95cc-5a054b481d53" />
 </Solution>
