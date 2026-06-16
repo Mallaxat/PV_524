@@ -77,7 +77,8 @@ namespace Lesson_7_DTB_ModelFist.Datalayer
             {
                 using (var db = new PV_524_CompanyDB_LapkinaEntities())
                 {
-                    var res = db.stp_CustomerDelete();
+                    var res = db.stp_CustomerDelete(id, new ObjectParameter("Result", 0));
+                    return res;
                 }
 
             }
