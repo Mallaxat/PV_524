@@ -8,5 +8,8 @@
   <Project Path="Lesson_6_WF/Lesson_6_WF.csproj" Id="935c5548-373c-4510-9f63-9e61144ecf7e" />
   <Project Path="Lesson_7_DTB ModelFist/Lesson_7_DTB ModelFist.csproj" Id="c2de53b0-230d-4252-b5f4-7a20d055e4a3" />
   <Project Path="Lesson_7_LINK/Lesson_8_LINK.csproj" Id="9c7e3230-8efd-4c52-b088-e6f1f16b2a1f" />
+  <Project Path="Lesson_910_multithreading/Lesson_910_multithreading.csproj" Id="34ea888f-67cf-4066-9217-7acec5c87a50" />
+  <Project Path="Lesson_911_Asyn/Lesson_911_Asyn1.csproj" Id="6ee61584-44f6-4e92-9b52-707dbe526b2c" />
+  <Project Path="Lesson_9_firstCode_AddTableKey/Lesson_9_firstCode_AddTableKey.csproj" Id="b5298aaa-26d8-4c15-b1f8-0ea1e9abb69a" />
   <Project Path="PV_524/PV_524.csproj" Id="c8fc2386-8395-4bca-95cc-5a054b481d53" />
 </Solution>
